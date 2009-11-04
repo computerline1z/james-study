@@ -10,5 +10,9 @@ http://rs1.rapidshare.com/files/89545635/Zend_Studio_5.5.1.rar
 http://softvnn.com/forum/showthread.php?t=110400&highlight=php+ide
 
 - XAMP - apache & mysql installer 
+ + config mysql - /xampp/mysql/bin/my.ini
+ + config phpmyadmin - /xampp/phpmyadmin/libraries/config.default.php
 
 - code joomla http://joomlacode.org/svn/joomla
+
+- JoomlaComment 4.0alpha http://compojoom.com/
