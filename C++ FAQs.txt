@@ -1,0 +1,5 @@
+Author: James Duy Trinh (duy.trinh@fix8.com)
+
+Q1: Why can't display the modaless in the second thread?
+A1:
+

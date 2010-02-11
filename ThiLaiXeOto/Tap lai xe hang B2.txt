@@ -7,11 +7,30 @@
 - Nhả chân trái (chân đạp côn) ra 1/3, rồi bắt đầu nhả từ từ để xe chuyển động (chú ý ngó đồng hồ số vòng quay dưới 1000 vòng/phút 1 chút, đừng để xuống quá sẽ tắt máy)
 - Chân phải để tựa lên bàn đạp thắng, khi lên ga thì lệch chân qua phải 30 độ để đạp ga nhẹ tăng tốc từ từ.
 Tư thế chân phải như vậy để chuyển qua lại giữa thắng và ga dễ dàng, đặc biệt khi tới khúc cua nên để qua thắng cho an toàn.
+- Để tránh tình trạng thắng gấp, cần đạp thắng vừa đủ, đừng quá mạnh gây sock xe
+- Để tránh tình trạng tắt máy khi giảm tốc độ trên đường trường thì về số N trước, và chỉ sử dụng thắng để giảm tốc thôi.
+
+Chú ý những vẫn đề dễ gây tai nạn
+- Khi đi đường, cần quan sát kính chiều hậu 2 bên trước khi xi nhan, rồi sau đó mới chuyển lan để ko gây tai nạn.
+- Chú ý chạy thẳng một đường, né qua trái phải gấp như xe máy dễ gây tại nạn
+- Đường đèo dốc đừng để số N khi giảm tốc
 
 Chạy trong thành phố thì sử dụng côn cho tốt, còn đối với đường trường thì thắng và ga sử dụng nhiều.
 Khi chạy đường trường gặp những chỗ dốc thì gần tới chỗ dốc phải đạp nhẹ thắng (đạp thắng gấp sẽ dễ gây sốc xe, vì vậy cần tập nhiều)
 
 Chú ý: trong lái xe ô tô, cố gắng tập chân trái đạp côn cho nhuyển để có thề chạy trên đường đông dân cư.
+
+Các bước sử dụng cần số xe số tự động
+- P: ...đỗ...đạp phanh rồi đề máy ở vị trí này
+- 3-D lần 1: thì cứ đạp phanh..chuyển từ P sang 3-D rồi nhả phanh từ từ...xe bắt đầu đi
+- 3-D lần 2: từ vị trí thì chuyển sang D (bên phải)...nhả phanh từ từ ...xe đi
+đi trong thành phố thì cứ vị trí đây mà đi
+- khi lên dốc cao (lên vỉa hè) ...chuyển sang 3, cần khỏe hơn nữa thì sang 2 (chú ý khi chuyến số thì đạp phanh)
+- leo dốc cao trên 15 độ thì chuyển 2 hoặc L (khi cần kéo tải trọng nặng)...ví dụ như đi đường núi ...có độ dốc ....
+- N là khi tạm dừng, ví dụ dừng đèn đỏ 30-60 giây
+- Dừng hẳn thì chuyển luôn về P, kéo phanh tay
+- R...số lùi (đặc biệt chú ý: khi mới lái....phải chắc chắn sang số D để tiến lên nhé, chứ gạt từ P sang R ...rồi thả phanh là xe tông luôn về đằng sau đấy). khi lùi thì quan sát đằng sau rồi chuyển P sang R, thả phanh từ từ...
+
 
 * Giấy phép lái xe ô tô gồm có các loại sau: [3]
 
@@ -45,6 +64,7 @@ Tham khảo thêm
     [1] http://www.hoclaioto.com/index.php?act=lc&cid=59 (Những kỹ năng lái xe)
     [2] http://lenduong.gdc.vn/VietNam/Home/Goc-tu-van/Cam-nang-lai-xe/2008/01/2FBE5BA5/(Cách dùng xe ô tô có số tự động)
 	[3] http://lawsoft.thuvienphapluat.vn/default.aspx?ct=TVQD&id=446
+	[4] http://xe360.vn/tu-van/kien-thuc/6-dieu-co-ban-linh-moi-can-biet/3846 (6 dieu co ban can biet)
 
 
 James
