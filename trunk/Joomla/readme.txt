@@ -12,7 +12,25 @@ http://softvnn.com/forum/showthread.php?t=110400&highlight=php+ide
 - XAMP - apache & mysql installer 
  + config mysql - /xampp/mysql/bin/my.ini
  + config phpmyadmin - /xampp/phpmyadmin/libraries/config.default.php
+ + config apache \xampp\apache\conf\httpd.conf
+ 
+ --- Start ----
+<Directory "g:\films">
+    Order deny,allow
+    Allow from all
+</Directory>
+
+NameVirtualHost *
+
+<VirtualHost *>
+	DocumentRoot "g:\films"
+	ServerPath /films
+	ServerName mobinexvn.dyndns.org
+</VirtualHost> 
+---- End ------
 
 - code joomla http://joomlacode.org/svn/joomla
 
 - JoomlaComment 4.0alpha http://compojoom.com/
+
+- Drupal CMS http://drupal.org/drupal-6.0

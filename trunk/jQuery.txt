@@ -1,0 +1,12 @@
+http://groups.google.com/group/jquery-en
+
+http://groups.google.com/group/jquery-dev
+
+http://groups.google.com/group/jquery-ui
+
+
+Pro JavaScript http://jspro.org/
+
+The best techniques for professional JavaScript. Published by Apress.
+
+http://ejohn.org/blog
